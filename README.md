@@ -5,7 +5,8 @@ A modern, high-end finance tracking web application specifically designed for co
 
 ![FinanceTracker Preview](https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
 
-### Fully Deployed link(https://financetrackerforcollegestudents.netlify.app/)
+## 🚀 Live Demo
+### [View Live Website](https://financetrackerforcollegestudents.netlify.app/)
 
 ## 🌟 Features
 
@@ -43,9 +44,6 @@ A modern, high-end finance tracking web application specifically designed for co
 - Touch-friendly interface
 - Collapsible mobile navigation
 
-## 🚀 Live Demo
-
-**Live Application**: [https://startling-sundae-0df1f4.netlify.app](https://startling-sundae-0df1f4.netlify.app)
 
 ## 🛠️ Tech Stack
 
@@ -192,14 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Built with ❤️ by @astro-prog
-
-## 🙏 Acknowledgments
-
-- [Chart.js](https://www.chartjs.org/) for beautiful charts
-- [Tailwind CSS](https://tailwindcss.com/) for styling
-- [Lucide React](https://lucide.dev/) for icons
-- [Pexels](https://www.pexels.com/) for stock images
+Built with ❤️ by [**@astro-prog**](https://github.com/astro-prog)
 
 ---
 
